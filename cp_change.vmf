@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6101"
-	"mapversion" "112"
+	"mapversion" "113"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "112"
+	"mapversion" "113"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -143568,8 +143568,8 @@ entity
 		{
 			"id" "32548"
 			"plane" "(2740 704 384) (2740 832 384) (2740 832 512)"
-			"material" "PROPS/METALDOOR01_96"
-			"uaxis" "[0 1 0 384] 0.25"
+			"material" "PROPS/METALDOOR01_96_NOENTRY"
+			"uaxis" "[0 1 0 -256] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -144624,8 +144624,8 @@ entity
 		{
 			"id" "33268"
 			"plane" "(-2676 -704 384) (-2676 -832 384) (-2676 -832 512)"
-			"material" "PROPS/METALDOOR01_96"
-			"uaxis" "[0 -1 0 384] 0.25"
+			"material" "PROPS/METALDOOR01_96_NOENTRY"
+			"uaxis" "[0 -1 0 -256] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -144656,6 +144656,182 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -3268]"
+	}
+}
+entity
+{
+	"id" "66416"
+	"classname" "item_healthkit_small"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"origin" "-69.741 1339.01 193.235"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66453"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -7768]"
+	}
+}
+entity
+{
+	"id" "66402"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_mvm/barrel_crate.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-68 1432 192"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66453"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "66278"
+	"classname" "prop_static"
+	"angles" "0 0 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_mvm/barrel_crate.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "320 1496 192"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66453"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "66412"
+	"classname" "item_ammopack_small"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"origin" "329.622 1580.06 193.261"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66453"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -8268]"
+	}
+}
+entity
+{
+	"id" "66493"
+	"classname" "item_healthkit_small"
+	"angles" "0 180 0"
+	"fademindist" "-1"
+	"origin" "133.741 -1339.01 193.235"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66492"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -7768]"
+	}
+}
+entity
+{
+	"id" "66495"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_mvm/barrel_crate.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "132 -1432 192"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66492"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "66499"
+	"classname" "prop_static"
+	"angles" "0 180 0"
+	"disableselfshadowing" "0"
+	"disableshadows" "0"
+	"disablevertexlighting" "0"
+	"fademaxdist" "0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"ignorenormals" "0"
+	"maxdxlevel" "0"
+	"mindxlevel" "0"
+	"model" "models/props_mvm/barrel_crate.mdl"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "6"
+	"origin" "-256 -1496 192"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66492"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "66503"
+	"classname" "item_ammopack_small"
+	"angles" "0 180 0"
+	"fademindist" "-1"
+	"origin" "-265.622 -1580.06 193.261"
+	editor
+	{
+		"color" "194 247 0"
+		"groupid" "66492"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -8268]"
 	}
 }
 entity
@@ -155775,182 +155951,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "66416"
-	"classname" "item_healthkit_small"
-	"angles" "0 0 0"
-	"fademindist" "-1"
-	"origin" "-69.741 1339.01 193.235"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66453"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -7768]"
-	}
-}
-entity
-{
-	"id" "66402"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_mvm/barrel_crate.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-68 1432 192"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66453"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "66278"
-	"classname" "prop_static"
-	"angles" "0 0 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_mvm/barrel_crate.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "320 1496 192"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66453"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "66412"
-	"classname" "item_ammopack_small"
-	"angles" "0 0 0"
-	"fademindist" "-1"
-	"origin" "329.622 1580.06 193.261"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66453"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -8268]"
-	}
-}
-entity
-{
-	"id" "66493"
-	"classname" "item_healthkit_small"
-	"angles" "0 180 0"
-	"fademindist" "-1"
-	"origin" "133.741 -1339.01 193.235"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66492"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -7768]"
-	}
-}
-entity
-{
-	"id" "66495"
-	"classname" "prop_static"
-	"angles" "0 180 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_mvm/barrel_crate.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "132 -1432 192"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66492"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "66499"
-	"classname" "prop_static"
-	"angles" "0 180 0"
-	"disableselfshadowing" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxdxlevel" "0"
-	"mindxlevel" "0"
-	"model" "models/props_mvm/barrel_crate.mdl"
-	"screenspacefade" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "-256 -1496 192"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66492"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "66503"
-	"classname" "item_ammopack_small"
-	"angles" "0 180 0"
-	"fademindist" "-1"
-	"origin" "-265.622 -1580.06 193.261"
-	editor
-	{
-		"color" "194 247 0"
-		"groupid" "66492"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -8268]"
 	}
 }
 cameras
