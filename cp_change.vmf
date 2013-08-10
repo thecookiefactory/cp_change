@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6117"
-	"mapversion" "127"
+	"mapversion" "130"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "127"
+	"mapversion" "130"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -140951,7 +140951,7 @@ world
 			"plane" "(-704 512 768) (-1024 512 768) (-1024 512 1920)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 -0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -140962,7 +140962,7 @@ world
 			"plane" "(-1024 896 768) (-704 896 768) (-704 896 1920)"
 			"material" "TOOLS/TOOLSPLAYERCLIP"
 			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 -0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -145092,532 +145092,6 @@ world
 	}
 	group
 	{
-		"id" "75699"
-		editor
-		{
-			"color" "162 223 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75508"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "75699"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75317"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "75508"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75012"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "75317"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "74708"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "75012"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "74405"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "74708"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "74195"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "74405"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73986"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "74195"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73793"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73986"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73586"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73793"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73410"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73586"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73235"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73410"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73213"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73235"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73172"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73410"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "73020"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73172"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "72869"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "73020"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "72739"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "72869"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "72610"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "72739"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "72487"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "72610"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "72370"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "72487"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "72084"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "74708"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "71992"
-		editor
-		{
-			"color" "162 223 0"
-			"groupid" "72084"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "77176"
-		editor
-		{
-			"color" "194 179 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "76983"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "77176"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "76785"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "76983"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "76773"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "76785"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75702"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "76983"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75703"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75702"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75704"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75703"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75705"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75704"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75706"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75705"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75707"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75706"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75708"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75707"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75709"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75708"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75710"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75709"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75726"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75710"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75727"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75726"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75728"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75727"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75729"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75728"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75750"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75727"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75751"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75750"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75752"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75751"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75753"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75752"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75754"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75753"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75755"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75754"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75756"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75755"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75917"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75706"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
-		"id" "75918"
-		editor
-		{
-			"color" "194 179 0"
-			"groupid" "75917"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "79937"
 		editor
 		{
@@ -145654,6 +145128,784 @@ world
 		{
 			"color" "116 225 0"
 			"groupid" "79938"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84346"
+		editor
+		{
+			"color" "171 132 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84052"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "84346"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "83759"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "84052"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "73586"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "83759"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "73410"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "73586"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "73235"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "73410"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "73213"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "73235"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "73172"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "73410"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "73020"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "73172"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "72869"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "73020"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "72739"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "72869"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "72610"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "72739"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "72487"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "72610"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "72370"
+		editor
+		{
+			"color" "171 132 0"
+			"groupid" "72487"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "86384"
+		editor
+		{
+			"color" "197 234 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85946"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "86384"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85573"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85946"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85089"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85573"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85090"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85106"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85122"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85138"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85154"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85170"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85186"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85089"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "85088"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85573"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84863"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84880"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84896"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84912"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84928"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84944"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84960"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "85088"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84596"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "86384"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84547"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "84596"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84499"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "84547"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "84452"
+		editor
+		{
+			"color" "197 234 0"
+			"groupid" "84499"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "91595"
+		editor
+		{
+			"color" "249 250 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "91289"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "91595"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "90984"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "91289"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "90680"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "90984"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75710"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "90680"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75726"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75710"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75727"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75726"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75728"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75727"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75729"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75728"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75750"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75727"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75751"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75750"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75752"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75751"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75753"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75752"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75754"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75753"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75755"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75754"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "75756"
+		editor
+		{
+			"color" "249 250 0"
+			"groupid" "75755"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "91910"
+		editor
+		{
+			"color" "161 186 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "91848"
+		editor
+		{
+			"color" "161 186 0"
+			"groupid" "91910"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "91983"
+		editor
+		{
+			"color" "225 238 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "91966"
+		editor
+		{
+			"color" "225 238 0"
+			"groupid" "91983"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "92044"
+		editor
+		{
+			"color" "211 212 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "92045"
+		editor
+		{
+			"color" "211 212 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "92061"
+		editor
+		{
+			"color" "211 212 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "92093"
+		editor
+		{
+			"color" "211 212 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "92109"
+		editor
+		{
+			"color" "211 212 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "92125"
+		editor
+		{
+			"color" "211 212 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93326"
+		editor
+		{
+			"color" "239 124 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93218"
+		editor
+		{
+			"color" "239 124 0"
+			"groupid" "93326"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93111"
+		editor
+		{
+			"color" "239 124 0"
+			"groupid" "93218"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93435"
+		editor
+		{
+			"color" "239 124 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93436"
+		editor
+		{
+			"color" "239 124 0"
+			"groupid" "93435"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93437"
+		editor
+		{
+			"color" "239 124 0"
+			"groupid" "93436"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93543"
+		editor
+		{
+			"color" "239 124 0"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93544"
+		editor
+		{
+			"color" "239 124 0"
+			"groupid" "93543"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	group
+	{
+		"id" "93545"
+		editor
+		{
+			"color" "239 124 0"
+			"groupid" "93544"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -150820,7 +151072,7 @@ entity
 	"origin" "-3003.78 -728.48 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73213"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150843,7 +151095,7 @@ entity
 	"origin" "-3367.39 -608.739 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73213"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150866,7 +151118,7 @@ entity
 	"origin" "-3385.2 -779.597 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73213"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150889,7 +151141,7 @@ entity
 	"origin" "-3199.11 -730.549 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73213"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150912,7 +151164,7 @@ entity
 	"origin" "-1654.73 3089.12 379.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150935,7 +151187,7 @@ entity
 	"origin" "-2057.27 3056.05 -4.58943"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150958,7 +151210,7 @@ entity
 	"origin" "-2651.4 3119.46 -4.58943"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -150981,7 +151233,7 @@ entity
 	"origin" "-3144.59 3082.1 -4.58943"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151004,7 +151256,7 @@ entity
 	"origin" "-3171.39 2613.67 -4.58943"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151027,7 +151279,7 @@ entity
 	"origin" "-3525.32 2438.05 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151050,7 +151302,7 @@ entity
 	"origin" "-3675.08 2434.31 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151073,7 +151325,7 @@ entity
 	"origin" "-3947.62 767.236 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151096,7 +151348,7 @@ entity
 	"origin" "-4285.61 592.236 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151119,7 +151371,7 @@ entity
 	"origin" "-4234.06 1089.42 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151142,7 +151394,7 @@ entity
 	"origin" "-4198.31 1430.9 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151165,7 +151417,7 @@ entity
 	"origin" "-3939.36 1426.84 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151188,7 +151440,7 @@ entity
 	"origin" "-3953.25 1114.33 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151211,7 +151463,7 @@ entity
 	"origin" "-4225.56 1455.97 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151234,7 +151486,7 @@ entity
 	"origin" "-4208.54 1165.73 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151257,7 +151509,7 @@ entity
 	"origin" "-4182.21 980.896 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151280,7 +151532,7 @@ entity
 	"origin" "-3897.88 1428.4 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151303,7 +151555,7 @@ entity
 	"origin" "-3919.72 1187.31 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151326,7 +151578,7 @@ entity
 	"origin" "-3927.99 960.45 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151349,7 +151601,7 @@ entity
 	"origin" "-3931.97 676.672 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151372,7 +151624,7 @@ entity
 	"origin" "-4211.01 665.239 763.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151395,7 +151647,7 @@ entity
 	"origin" "-4426.84 878.222 555.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151418,7 +151670,7 @@ entity
 	"origin" "-4421.34 1411.97 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72370"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151441,7 +151693,7 @@ entity
 	"origin" "-3467.15 1638.43 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72610"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151464,7 +151716,7 @@ entity
 	"origin" "-3830.12 1670.04 363.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "72739"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151487,7 +151739,7 @@ entity
 	"origin" "-1953.25 -613.114 539.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73020"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151510,7 +151762,7 @@ entity
 	"origin" "-2011.56 -890.073 539.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73020"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151533,7 +151785,7 @@ entity
 	"origin" "-2375.18 -889.619 539.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73020"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151556,7 +151808,7 @@ entity
 	"origin" "-2399.48 -664.104 539.411"
 	editor
 	{
-		"color" "162 223 0"
+		"color" "171 132 0"
 		"groupid" "73020"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -151579,8 +151831,8 @@ entity
 	"origin" "-3441.42 388.846 363.411"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "73793"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 4500]"
@@ -151602,8 +151854,8 @@ entity
 	"origin" "-2946.43 620.977 363.411"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "73793"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 4000]"
@@ -151625,8 +151877,8 @@ entity
 	"origin" "-2694.27 1436.21 363.411"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "73793"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 3500]"
@@ -151643,8 +151895,8 @@ entity
 	"origin" "-2144 -2400 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "74195"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151661,8 +151913,8 @@ entity
 	"origin" "-2144 -2720 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "74195"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151679,8 +151931,8 @@ entity
 	"origin" "-2144 -3024 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "74195"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151697,8 +151949,8 @@ entity
 	"origin" "-432 -2432 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151715,8 +151967,8 @@ entity
 	"origin" "-640 -2736 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151733,8 +151985,8 @@ entity
 	"origin" "-896 -2736 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151751,26 +152003,8 @@ entity
 	"origin" "-1184 -2736 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12500]"
-	}
-}
-entity
-{
-	"id" "71882"
-	"classname" "light"
-	"_light" "229 229 229 200"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "-1088 -2464 288"
-	editor
-	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151787,8 +152021,8 @@ entity
 	"origin" "-1136 -1216 544"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151805,8 +152039,8 @@ entity
 	"origin" "-1360 -1216 544"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151823,8 +152057,8 @@ entity
 	"origin" "-2448 -3024 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151841,8 +152075,8 @@ entity
 	"origin" "-2448 -2656 496"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151859,8 +152093,8 @@ entity
 	"origin" "-1744 -3040 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151877,8 +152111,8 @@ entity
 	"origin" "-1184 -3040 288"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151895,8 +152129,8 @@ entity
 	"origin" "-64 -1456 480"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151913,8 +152147,8 @@ entity
 	"origin" "608 -640 272"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151931,8 +152165,8 @@ entity
 	"origin" "608 -848 272"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -151954,8 +152188,8 @@ entity
 	"origin" "768 -288 472.799"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12000]"
@@ -151977,8 +152211,8 @@ entity
 	"origin" "592 -288 472.799"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12000]"
@@ -151995,8 +152229,8 @@ entity
 	"origin" "1872 -2112 480"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152013,8 +152247,8 @@ entity
 	"origin" "1616 -2112 480"
 	editor
 	{
-		"color" "162 223 0"
-		"groupid" "71992"
+		"color" "171 132 0"
+		"groupid" "83759"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152022,48 +152256,1496 @@ entity
 }
 entity
 {
-	"id" "76758"
-	"classname" "light_spot"
-	"_cone" "45"
-	"_exponent" "1"
-	"_inner_cone" "30"
-	"_light" "255 255 255 200"
+	"id" "85091"
+	"classname" "light"
+	"_light" "229 229 229 200"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"angles" "0 0 0"
-	"pitch" "-90"
-	"origin" "-1550.55 -1369.88 379.411"
+	"origin" "-3952 1424 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "76773"
+		"color" "197 234 0"
+		"groupid" "85090"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"logicalpos" "[500 11000]"
+		"logicalpos" "[0 12500]"
 	}
 }
 entity
 {
-	"id" "76753"
-	"classname" "light_spot"
-	"_cone" "45"
-	"_exponent" "1"
-	"_inner_cone" "30"
-	"_light" "255 255 255 200"
+	"id" "85096"
+	"classname" "light"
+	"_light" "229 229 229 200"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"angles" "0 0 0"
-	"pitch" "-90"
-	"origin" "1608.83 1366.37 379.411"
+	"origin" "-4080 1424 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "76773"
+		"color" "197 234 0"
+		"groupid" "85090"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"logicalpos" "[500 10500]"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85101"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1424 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85090"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85107"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1280 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85106"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85112"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1280 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85106"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85117"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1280 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85106"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85123"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1152 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85122"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85128"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1152 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85122"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85133"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1152 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85122"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85139"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1024 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85138"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85144"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1024 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85138"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85149"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1024 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85138"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85155"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 912 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85154"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85160"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 912 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85154"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85165"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 912 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85154"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85171"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 800 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85170"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85176"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 800 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85170"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85181"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 800 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85170"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85187"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85186"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85192"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85186"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "85197"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85186"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84843"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1424 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84863"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84833"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1424 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84863"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84828"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1424 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84863"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84881"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1280 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84880"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84886"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1280 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84880"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84891"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1280 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84880"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84897"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1152 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84896"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84902"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1152 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84896"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84907"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1152 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84896"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84913"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 1024 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84912"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84918"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 1024 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84912"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84923"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 1024 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84912"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84929"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 912 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84928"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84934"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 912 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84928"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84939"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 912 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84928"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84945"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 800 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84944"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84950"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 800 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84944"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84955"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 800 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84944"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84961"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3952 640 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84960"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84966"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4080 640 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84960"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84971"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-4224 640 512"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84960"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84813"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3968 432 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84803"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3968 208 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84823"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3968 1648 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84818"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3968 1856 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84792"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3376 -512 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84787"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3376 -768 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84782"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-3200 -768 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84777"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2928 -752 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84767"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2384 -768 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84772"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2384 -640 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84642"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2176 -640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84712"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2176 -640 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84727"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1920 -640 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84707"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2176 -768 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84647"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2176 -768 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84637"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2176 -896 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84762"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2384 -896 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84702"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2176 -896 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84717"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1920 -896 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84722"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1920 -768 448"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84617"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1920 -640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84652"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1920 -768 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84632"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1920 -896 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84677"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2592 -896 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84672"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2592 -768 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84682"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2592 -640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84657"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2384 -768 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84667"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2384 -640 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84662"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-2384 -896 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "85573"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84367"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1616 -2160 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84377"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1552 -1872 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84362"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1312 -2176 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84382"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1280 -1856 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84397"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1296 -1552 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84402"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1552 -1552 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84357"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1072 -2176 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84387"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1072 -1856 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84392"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1056 -1568 288"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "84452"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84612"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1232 -1776 496"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "86384"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "84607"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1232 -1952 496"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "86384"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "71817"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1392 -1952 496"
+	editor
+	{
+		"color" "197 234 0"
+		"groupid" "86384"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
 	}
 }
 entity
@@ -152082,7 +153764,7 @@ entity
 	"origin" "3067.79 728.48 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75729"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152105,7 +153787,7 @@ entity
 	"origin" "3431.39 608.739 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75729"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152128,7 +153810,7 @@ entity
 	"origin" "3449.2 779.597 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75729"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152151,7 +153833,7 @@ entity
 	"origin" "3263.11 730.549 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75729"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152174,7 +153856,7 @@ entity
 	"origin" "1718.72 -3089.12 379.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152197,7 +153879,7 @@ entity
 	"origin" "2121.27 -3056.05 -4.58943"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152220,7 +153902,7 @@ entity
 	"origin" "2715.4 -3119.46 -4.58943"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152243,7 +153925,7 @@ entity
 	"origin" "3208.59 -3082.1 -4.58943"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152266,7 +153948,7 @@ entity
 	"origin" "3235.39 -2613.67 -4.58943"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152289,7 +153971,7 @@ entity
 	"origin" "3589.32 -2438.05 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152312,7 +153994,7 @@ entity
 	"origin" "3739.08 -2434.31 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152335,7 +154017,7 @@ entity
 	"origin" "4011.62 -767.236 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152358,7 +154040,7 @@ entity
 	"origin" "4349.62 -592.236 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152381,7 +154063,7 @@ entity
 	"origin" "4298.06 -1089.42 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152404,7 +154086,7 @@ entity
 	"origin" "4262.3 -1430.9 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152427,7 +154109,7 @@ entity
 	"origin" "4003.36 -1426.84 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152450,7 +154132,7 @@ entity
 	"origin" "4017.25 -1114.33 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152473,7 +154155,7 @@ entity
 	"origin" "4289.56 -1455.97 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152496,7 +154178,7 @@ entity
 	"origin" "4272.54 -1165.73 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152519,7 +154201,7 @@ entity
 	"origin" "4246.21 -980.896 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152542,7 +154224,7 @@ entity
 	"origin" "3961.88 -1428.4 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152565,7 +154247,7 @@ entity
 	"origin" "3983.72 -1187.31 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152588,7 +154270,7 @@ entity
 	"origin" "3991.99 -960.45 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152611,7 +154293,7 @@ entity
 	"origin" "3995.97 -676.672 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152634,7 +154316,7 @@ entity
 	"origin" "4275.01 -665.239 763.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152657,7 +154339,7 @@ entity
 	"origin" "4490.84 -878.222 555.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152680,7 +154362,7 @@ entity
 	"origin" "4485.34 -1411.97 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75756"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152703,7 +154385,7 @@ entity
 	"origin" "3531.15 -1638.43 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75754"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152726,7 +154408,7 @@ entity
 	"origin" "3894.12 -1670.04 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75753"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152749,7 +154431,7 @@ entity
 	"origin" "2017.25 613.114 539.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75751"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152772,7 +154454,7 @@ entity
 	"origin" "2075.55 890.073 539.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75751"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152795,7 +154477,7 @@ entity
 	"origin" "2439.18 889.619 539.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75751"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152818,7 +154500,7 @@ entity
 	"origin" "2463.48 664.104 539.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75751"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152841,7 +154523,7 @@ entity
 	"origin" "3505.42 -388.846 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75710"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152864,7 +154546,7 @@ entity
 	"origin" "3010.43 -620.977 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75710"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
@@ -152887,11 +154569,57 @@ entity
 	"origin" "2758.27 -1436.21 363.411"
 	editor
 	{
-		"color" "194 179 0"
+		"color" "249 250 0"
 		"groupid" "75710"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[500 3500]"
+	}
+}
+entity
+{
+	"id" "76758"
+	"classname" "light_spot"
+	"_cone" "45"
+	"_exponent" "1"
+	"_inner_cone" "30"
+	"_light" "255 255 255 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"angles" "0 0 0"
+	"pitch" "-90"
+	"origin" "-1550.55 -1369.88 379.411"
+	editor
+	{
+		"color" "249 250 0"
+		"groupid" "90680"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 11000]"
+	}
+}
+entity
+{
+	"id" "76753"
+	"classname" "light_spot"
+	"_cone" "45"
+	"_exponent" "1"
+	"_inner_cone" "30"
+	"_light" "255 255 255 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"angles" "0 0 0"
+	"pitch" "-90"
+	"origin" "1608.83 1366.37 379.411"
+	editor
+	{
+		"color" "249 250 0"
+		"groupid" "90680"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 10500]"
 	}
 }
 entity
@@ -152905,8 +154633,8 @@ entity
 	"origin" "2208 2400 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75708"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152923,8 +154651,8 @@ entity
 	"origin" "2208 2720 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75708"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152941,8 +154669,8 @@ entity
 	"origin" "2208 3024 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75708"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152959,8 +154687,8 @@ entity
 	"origin" "496 2432 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152977,8 +154705,8 @@ entity
 	"origin" "704 2736 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -152995,8 +154723,8 @@ entity
 	"origin" "960 2736 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153013,26 +154741,8 @@ entity
 	"origin" "1248 2736 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12500]"
-	}
-}
-entity
-{
-	"id" "75939"
-	"classname" "light"
-	"_light" "229 229 229 200"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "1152 2464 288"
-	editor
-	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153049,8 +154759,8 @@ entity
 	"origin" "1200 1216 544"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153067,8 +154777,8 @@ entity
 	"origin" "1424 1216 544"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153085,8 +154795,8 @@ entity
 	"origin" "2512 3024 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153103,8 +154813,8 @@ entity
 	"origin" "2512 2656 496"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153121,8 +154831,8 @@ entity
 	"origin" "1808 3040 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153139,8 +154849,8 @@ entity
 	"origin" "1248 3040 288"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153157,8 +154867,8 @@ entity
 	"origin" "128 1456 480"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153175,8 +154885,8 @@ entity
 	"origin" "-544 640 272"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153193,8 +154903,8 @@ entity
 	"origin" "-544 848 272"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153216,8 +154926,8 @@ entity
 	"origin" "-704 288 472.799"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12000]"
@@ -153239,8 +154949,8 @@ entity
 	"origin" "-528 288 472.799"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12000]"
@@ -153257,8 +154967,8 @@ entity
 	"origin" "-1808 2112 480"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -153275,8 +154985,1736 @@ entity
 	"origin" "-1552 2112 480"
 	editor
 	{
-		"color" "194 179 0"
-		"groupid" "75918"
+		"color" "249 250 0"
+		"groupid" "90680"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "75939"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1152 2464 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91596"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1136 2176 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91601"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1392 2176 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91606"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1808 2176 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91611"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1616 2176 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91616"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1616 1856 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91626"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1392 1856 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91631"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1136 1856 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91636"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1616 1552 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91641"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1808 1552 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91646"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1392 1552 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91651"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1136 1552 288"
+	editor
+	{
+		"color" "161 186 0"
+		"groupid" "91848"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91941"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1456 1984 464"
+	editor
+	{
+		"color" "225 238 0"
+		"groupid" "91966"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91936"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1312 1792 464"
+	editor
+	{
+		"color" "225 238 0"
+		"groupid" "91966"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91946"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1328 1984 464"
+	editor
+	{
+		"color" "225 238 0"
+		"groupid" "91966"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92024"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2048 640 416"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92044"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92004"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2048 896 416"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92044"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92019"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2048 768 416"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92044"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92046"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2304 640 416"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92045"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92051"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2304 896 416"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92045"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92056"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2304 768 416"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92045"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92062"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2592 640 512"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92061"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92067"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2592 896 512"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92061"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92072"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2592 768 512"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92061"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92094"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2304 640 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92093"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92099"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2304 896 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92093"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92104"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2304 768 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92093"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92110"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2048 640 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92109"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92115"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2048 896 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92109"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92120"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2048 768 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92109"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92126"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2480 640 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92125"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92131"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2480 896 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92125"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92136"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2480 768 272"
+	editor
+	{
+		"color" "211 212 0"
+		"groupid" "92125"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92487"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1392 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92492"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1392 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92497"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1392 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92477"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1264 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92467"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1168 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92452"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1072 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92437"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -896 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92422"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -784 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92397"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -624 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92417"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -784 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92432"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -896 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92407"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -624 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92447"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1072 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92462"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1168 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92472"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1264 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92442"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1072 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92457"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1168 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92427"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -896 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92412"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -784 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92482"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1264 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92402"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -624 512"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93111"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93438"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1392 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93443"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1392 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93448"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1392 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93453"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1264 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93458"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1168 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93463"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1072 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93468"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -896 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93473"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -784 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93478"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -624 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93483"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -784 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93488"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -896 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93493"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -624 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93498"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1072 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93503"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1168 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93508"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1264 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93513"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1072 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93518"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1168 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93523"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -896 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93528"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -784 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93533"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1264 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93538"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -624 672"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93437"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93546"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1392 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93551"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1392 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93556"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1392 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93561"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1264 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93566"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1168 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93571"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1072 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93576"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -896 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93581"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -784 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93586"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -624 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93591"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -784 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93596"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -896 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93601"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -624 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93606"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1072 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93611"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -1168 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93616"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1264 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93621"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1072 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93626"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -1168 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93631"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -896 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93636"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4320 -784 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93641"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3952 -1264 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93646"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4128 -624 288"
+	editor
+	{
+		"color" "239 124 0"
+		"groupid" "93545"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 12500]"
@@ -165405,30 +168843,13 @@ entity
 }
 entity
 {
-	"id" "71817"
-	"classname" "light"
-	"_light" "229 229 229 200"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"_quadratic_attn" "1"
-	"origin" "-1312 -1952 496"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12500]"
-	}
-}
-entity
-{
 	"id" "71832"
 	"classname" "light"
 	"_light" "229 229 229 200"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
-	"origin" "-1312 -1776 496"
+	"origin" "-1392 -1776 496"
 	editor
 	{
 		"color" "220 30 220"
@@ -165480,6 +168901,329 @@ entity
 	"_lightscaleHDR" "1"
 	"_quadratic_attn" "1"
 	"origin" "448 -2368 288"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "71882"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "-1088 -2464 288"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91621"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "1440 1792 464"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "91984"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2512 2432 496"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92142"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3440 768 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92147"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2816 768 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92152"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3136 768 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92357"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3440 512 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92362"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4032 -192 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92372"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4032 -480 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92377"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4000 -320 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92382"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4016 -1728 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92387"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4048 -1600 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "92392"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "4048 -1888 480"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93651"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3520 -384 288"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93661"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3520 -1680 288"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93666"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2752 -1456 288"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93671"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "3008 -608 288"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93676"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2368 -960 192"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 12500]"
+	}
+}
+entity
+{
+	"id" "93681"
+	"classname" "light"
+	"_light" "229 229 229 200"
+	"_lightHDR" "-1 -1 -1 1"
+	"_lightscaleHDR" "1"
+	"_quadratic_attn" "1"
+	"origin" "2368 -1104 192"
 	editor
 	{
 		"color" "220 30 220"
