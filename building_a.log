@@ -1,0 +1,2401 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote E:\mapping\Team Fortress 2\cp_change\building_a.lin
+Areaportal leak ! File: E:\mapping\Team Fortress 2\cp_change\building_a.lin 
+Brush 10743: areaportal brush doesn't touch two areas
+
+Brush 10735: areaportal brush doesn't touch two areas
+
+Brush 11288: areaportal brush doesn't touch two areas
+
+Brush 10737: areaportal brush doesn't touch two areas
+
+Brush 10739: areaportal brush doesn't touch two areas
+
+Brush 10741: areaportal brush doesn't touch two areas
+
+Brush 10709: areaportal brush doesn't touch two areas
+
+Brush 10751: areaportal brush doesn't touch two areas
+
+Brush 10725: areaportal brush doesn't touch two areas
+
+Brush 10751: areaportal brush doesn't touch two areas
+
+Brush 10757: areaportal brush doesn't touch two areas
+
+Brush 11234: areaportal brush doesn't touch two areas
+
+Brush 11232: areaportal brush doesn't touch two areas
+
+Brush 11220: areaportal brush doesn't touch two areas
+
+Brush 11238: areaportal brush doesn't touch two areas
+
+Brush 10926: areaportal brush doesn't touch two areas
+
+Brush 11234: areaportal brush doesn't touch two areas
+
+Brush 11232: areaportal brush doesn't touch two areas
+
+Brush 11220: areaportal brush doesn't touch two areas
+
+Brush 11244: areaportal brush doesn't touch two areas
+
+Brush 10938: areaportal brush doesn't touch two areas
+
+Brush 11244: areaportal brush doesn't touch two areas
+
+Brush 10715: areaportal brush doesn't touch two areas
+
+Brush 10723: areaportal brush doesn't touch two areas
+
+Brush 10721: areaportal brush doesn't touch two areas
+
+Brush 10717: areaportal brush doesn't touch two areas
+
+Brush 10703: areaportal brush doesn't touch two areas
+
+Brush 10705: areaportal brush doesn't touch two areas
+
+Brush 10685: areaportal brush doesn't touch two areas
+
+Brush 10681: areaportal brush doesn't touch two areas
+
+Brush 10715: areaportal brush doesn't touch two areas
+
+Brush 10723: areaportal brush doesn't touch two areas
+
+Brush 10721: areaportal brush doesn't touch two areas
+
+Brush 10717: areaportal brush doesn't touch two areas
+
+Brush 10888: areaportal brush doesn't touch two areas
+
+Brush 10924: areaportal brush doesn't touch two areas
+
+Brush 10687: areaportal brush doesn't touch two areas
+
+Brush 10707: areaportal brush doesn't touch two areas
+
+Brush 10707: areaportal brush doesn't touch two areas
+
+Brush 10697: areaportal brush doesn't touch two areas
+
+Brush 10681: areaportal brush doesn't touch two areas
+
+Brush 10665: areaportal brush doesn't touch two areas
+
+Brush 10687: areaportal brush doesn't touch two areas
+
+Brush 11248: areaportal brush doesn't touch two areas
+
+Brush 10928: areaportal brush doesn't touch two areas
+
+Brush 11258: areaportal brush doesn't touch two areas
+
+Brush 11262: areaportal brush doesn't touch two areas
+
+Brush 11272: areaportal brush doesn't touch two areas
+
+Brush 11284: areaportal brush doesn't touch two areas
+
+Brush 11312: areaportal brush doesn't touch two areas
+
+Brush 11302: areaportal brush doesn't touch two areas
+
+Brush 11206: areaportal brush doesn't touch two areas
+
+Brush 11204: areaportal brush doesn't touch two areas
+
+Brush 11203: areaportal brush doesn't touch two areas
+
+Brush 10687: areaportal brush doesn't touch two areas
+
+Brush 11312: areaportal brush doesn't touch two areas
+
+Brush 11206: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (181953 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 254 texinfos to 121
+Reduced 9 texdatas to 8 (231 bytes to 210)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+ 594 portalclusters
+1462 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12271 visible clusters (4.92%)
+Total clusters visible: 249257
+Average clusters visible: 419
+Building PAS...
+Average clusters audible: 585
+visdatasize:91052  compressed from 95040
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+2325 faces
+540817 square feet [77877648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2325 patches before subdivision
+38161 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5040842, max 687
+transfer lists:  38.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0089 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                543/8192         6516/98304    ( 6.6%) 
+brushsides            3462/65536       27696/524288   ( 5.3%) 
+planes                 798/65536       15960/1310720  ( 1.2%) 
+vertexes              3492/65536       41904/786432   ( 5.3%) 
+nodes                 1148/65536       36736/2097152  ( 1.8%) 
+texinfos               121/12288        8712/884736   ( 1.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2325/65536      130200/3670016  ( 3.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1242/65536       69552/3670016  ( 1.9%) 
+leaves                1150/65536       36800/2097152  ( 1.8%) 
+leaffaces             2551/65536        5102/131072   ( 3.9%) 
+leafbrushes            939/65536        1878/131072   ( 1.4%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            15872/512000      63488/2048000  ( 3.1%) 
+edges                10037/256000      40148/1024000  ( 3.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            127/32768        1270/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2184/65536        4368/131072   ( 3.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      850636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       91052/16777216 ( 0.5%) 
+entdata               [variable]        5505/393216   ( 1.4%) 
+LDR ambient table     1150/65536        4600/262144   ( 1.8%) 
+HDR ambient table     1150/65536        4600/262144   ( 1.8%) 
+LDR leaf ambient       594/65536       16632/1835008  ( 0.9%) 
+HDR leaf ambient      1150/65536       32200/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]      181953/4194304  ( 4.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6242
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote E:\mapping\Team Fortress 2\cp_change\building_a.lin
+Areaportal leak ! File: E:\mapping\Team Fortress 2\cp_change\building_a.lin 
+Brush 10743: areaportal brush doesn't touch two areas
+
+Brush 10735: areaportal brush doesn't touch two areas
+
+Brush 11288: areaportal brush doesn't touch two areas
+
+Brush 10737: areaportal brush doesn't touch two areas
+
+Brush 10739: areaportal brush doesn't touch two areas
+
+Brush 10741: areaportal brush doesn't touch two areas
+
+Brush 10709: areaportal brush doesn't touch two areas
+
+Brush 10751: areaportal brush doesn't touch two areas
+
+Brush 10725: areaportal brush doesn't touch two areas
+
+Brush 10751: areaportal brush doesn't touch two areas
+
+Brush 10757: areaportal brush doesn't touch two areas
+
+Brush 11234: areaportal brush doesn't touch two areas
+
+Brush 11232: areaportal brush doesn't touch two areas
+
+Brush 11220: areaportal brush doesn't touch two areas
+
+Brush 11238: areaportal brush doesn't touch two areas
+
+Brush 10926: areaportal brush doesn't touch two areas
+
+Brush 11234: areaportal brush doesn't touch two areas
+
+Brush 11232: areaportal brush doesn't touch two areas
+
+Brush 11220: areaportal brush doesn't touch two areas
+
+Brush 11244: areaportal brush doesn't touch two areas
+
+Brush 10938: areaportal brush doesn't touch two areas
+
+Brush 11244: areaportal brush doesn't touch two areas
+
+Brush 10715: areaportal brush doesn't touch two areas
+
+Brush 10723: areaportal brush doesn't touch two areas
+
+Brush 10721: areaportal brush doesn't touch two areas
+
+Brush 10717: areaportal brush doesn't touch two areas
+
+Brush 10703: areaportal brush doesn't touch two areas
+
+Brush 10705: areaportal brush doesn't touch two areas
+
+Brush 10685: areaportal brush doesn't touch two areas
+
+Brush 10681: areaportal brush doesn't touch two areas
+
+Brush 10715: areaportal brush doesn't touch two areas
+
+Brush 10723: areaportal brush doesn't touch two areas
+
+Brush 10721: areaportal brush doesn't touch two areas
+
+Brush 10717: areaportal brush doesn't touch two areas
+
+Brush 10888: areaportal brush doesn't touch two areas
+
+Brush 10924: areaportal brush doesn't touch two areas
+
+Brush 10687: areaportal brush doesn't touch two areas
+
+Brush 10707: areaportal brush doesn't touch two areas
+
+Brush 10707: areaportal brush doesn't touch two areas
+
+Brush 10697: areaportal brush doesn't touch two areas
+
+Brush 10681: areaportal brush doesn't touch two areas
+
+Brush 10665: areaportal brush doesn't touch two areas
+
+Brush 10687: areaportal brush doesn't touch two areas
+
+Brush 11248: areaportal brush doesn't touch two areas
+
+Brush 10928: areaportal brush doesn't touch two areas
+
+Brush 11258: areaportal brush doesn't touch two areas
+
+Brush 11262: areaportal brush doesn't touch two areas
+
+Brush 11272: areaportal brush doesn't touch two areas
+
+Brush 11284: areaportal brush doesn't touch two areas
+
+Brush 11312: areaportal brush doesn't touch two areas
+
+Brush 11302: areaportal brush doesn't touch two areas
+
+Brush 11206: areaportal brush doesn't touch two areas
+
+Brush 11204: areaportal brush doesn't touch two areas
+
+Brush 11203: areaportal brush doesn't touch two areas
+
+Brush 10687: areaportal brush doesn't touch two areas
+
+Brush 11312: areaportal brush doesn't touch two areas
+
+Brush 11206: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (181953 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 254 texinfos to 121
+Reduced 9 texdatas to 8 (231 bytes to 210)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+ 594 portalclusters
+1462 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 12271 visible clusters (4.92%)
+Total clusters visible: 249257
+Average clusters visible: 419
+Building PAS...
+Average clusters audible: 585
+visdatasize:91052  compressed from 95040
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+2325 faces
+540817 square feet [77877648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2325 patches before subdivision
+38161 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 5040842, max 687
+transfer lists:  38.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0087 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                543/8192         6516/98304    ( 6.6%) 
+brushsides            3462/65536       27696/524288   ( 5.3%) 
+planes                 798/65536       15960/1310720  ( 1.2%) 
+vertexes              3492/65536       41904/786432   ( 5.3%) 
+nodes                 1148/65536       36736/2097152  ( 1.8%) 
+texinfos               121/12288        8712/884736   ( 1.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2325/65536      130200/3670016  ( 3.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1242/65536       69552/3670016  ( 1.9%) 
+leaves                1150/65536       36800/2097152  ( 1.8%) 
+leaffaces             2551/65536        5102/131072   ( 3.9%) 
+leafbrushes            939/65536        1878/131072   ( 1.4%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            15872/512000      63488/2048000  ( 3.1%) 
+edges                10037/256000      40148/1024000  ( 3.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            127/32768        1270/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2184/65536        4368/131072   ( 3.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      850636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       91052/16777216 ( 0.5%) 
+entdata               [variable]        5505/393216   ( 1.4%) 
+LDR ambient table     1150/65536        4600/262144   ( 1.8%) 
+HDR ambient table     1150/65536        4600/262144   ( 1.8%) 
+LDR leaf ambient       594/65536       16632/1835008  ( 0.9%) 
+HDR leaf ambient      1150/65536       32200/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]      181953/4194304  ( 4.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 6242
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 5 (brush 11292) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+Warning: area portal has 512 verts. Could be a vbsp bug.
+Warning: area portal has 512 verts. Could be a vbsp bug.
+done (0)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (392769 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 549 texinfos to 380
+Reduced 10 texdatas to 8 (275 bytes to 210)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+1808 portalclusters
+4601 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 70366 visible clusters (2.56%)
+Total clusters visible: 2743674
+Average clusters visible: 1517
+Building PAS...
+Average clusters audible: 1804
+visdatasize:809296  compressed from 838912
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+6335 faces
+580092 square feet [83533312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+6335 patches before subdivision
+64213 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 20080868, max 1671
+transfer lists: 153.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0120 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1125/8192        13500/98304    (13.7%) 
+brushsides            7521/65536       60168/524288   (11.5%) 
+planes                2454/65536       49080/1310720  ( 3.7%) 
+vertexes              8105/65536       97260/786432   (12.4%) 
+nodes                 3126/65536      100032/2097152  ( 4.8%) 
+texinfos               380/12288       27360/884736   ( 3.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6335/65536      354760/3670016  ( 9.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3090/65536      173040/3670016  ( 4.7%) 
+leaves                3128/65536      100096/2097152  ( 4.8%) 
+leaffaces             6769/65536       13538/131072   (10.3%) 
+leafbrushes           2305/65536        4610/131072   ( 3.5%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            41482/512000     165928/2048000  ( 8.1%) 
+edges                26785/256000     107140/1024000  (10.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            287/32768        2870/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5412/65536       10824/131072   ( 8.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1263928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      809296/16777216 ( 4.8%) 
+entdata               [variable]        5505/393216   ( 1.4%) 
+LDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+HDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+LDR leaf ambient      1808/65536       50624/1835008  ( 2.8%) 
+HDR leaf ambient      3128/65536       87584/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211908/0        ( 0.0%) 
+physics               [variable]      392769/4194304  ( 9.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 16445
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+22 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 5 (brush 11292) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (9)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (444793 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 726 texinfos to 514
+Reduced 11 texdatas to 9 (293 bytes to 228)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+10 seconds elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+2195 portalclusters
+6200 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 158191 visible clusters (3.89%)
+Total clusters visible: 4065070
+Average clusters visible: 1851
+Building PAS...
+Average clusters audible: 2192
+visdatasize:1198216  compressed from 1229200
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+7864 faces
+580468 square feet [83587448.00 square inches]
+440 Displacements
+520 Square Feet [74985.18 Square Inches]
+7864 patches before subdivision
+67092 patches after subdivision
+440 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22111245, max 1794
+transfer lists: 168.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(364614, 191711, 191711)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(58706, 16274, 16274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9810, 1400, 1400)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1635, 121, 121)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(277, 11, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(47, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0129 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+220 of 220 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1258/8192        15096/98304    (15.4%) 
+brushsides            8319/65536       66552/524288   (12.7%) 
+planes                3042/65536       60840/1310720  ( 4.6%) 
+vertexes             10239/65536      122868/786432   (15.6%) 
+nodes                 3656/65536      116992/2097152  ( 5.6%) 
+texinfos               514/12288       37008/884736   ( 4.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos              440/0           77440/0        ( 0.0%) 
+disp_verts           11000/0          220000/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       19712/0           19712/0        ( 0.0%) 
+faces                 7864/65536      440384/3670016  (12.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4188/65536      234528/3670016  ( 6.4%) 
+leaves                3658/65536      117056/2097152  ( 5.6%) 
+leaffaces             8110/65536       16220/131072   (12.4%) 
+leafbrushes           2445/65536        4890/131072   ( 3.7%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            53015/512000     212060/2048000  (10.4%) 
+edges                32835/256000     131340/1024000  (12.8%) 
+LDR worldlights        440/8192        38720/720896   ( 5.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            327/32768        3270/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6234/65536       12468/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1329084/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1198216/16777216 ( 7.1%) 
+entdata               [variable]       76918/393216   (19.6%) 
+LDR ambient table     3658/65536       14632/262144   ( 5.6%) 
+HDR ambient table     3658/65536       14632/262144   ( 5.6%) 
+LDR leaf ambient     13398/65536      375144/1835008  (20.4%) 
+HDR leaf ambient      3658/65536      102424/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211908/0        ( 0.0%) 
+physics               [variable]      444793/4194304  (10.6%) 
+physics terrain       [variable]      114042/1048576  (10.9%) 
+
+Level flags = 0
+
+Total triangle count: 20528
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+50 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 24 (brush 10717) touches > 2 areas
+WARNING: areaportal entity 5 (brush 11292) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (444793 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 726 texinfos to 514
+Reduced 11 texdatas to 9 (293 bytes to 228)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+2195 portalclusters
+6200 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 158191 visible clusters (3.89%)
+Total clusters visible: 4065070
+Average clusters visible: 1851
+Building PAS...
+Average clusters audible: 2192
+visdatasize:1198216  compressed from 1229200
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+7864 faces
+580468 square feet [83587448.00 square inches]
+440 Displacements
+520 Square Feet [74985.18 Square Inches]
+7864 patches before subdivision
+67092 patches after subdivision
+442 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22111245, max 1794
+transfer lists: 168.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(405838, 207703, 206144)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(63354, 17321, 17223)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10463, 1483, 1475)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1728, 128, 127)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(292, 11, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(49, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0127 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+220 of 220 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1258/8192        15096/98304    (15.4%) 
+brushsides            8319/65536       66552/524288   (12.7%) 
+planes                3042/65536       60840/1310720  ( 4.6%) 
+vertexes             10239/65536      122868/786432   (15.6%) 
+nodes                 3656/65536      116992/2097152  ( 5.6%) 
+texinfos               514/12288       37008/884736   ( 4.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos              440/0           77440/0        ( 0.0%) 
+disp_verts           11000/0          220000/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       19712/0           19712/0        ( 0.0%) 
+faces                 7864/65536      440384/3670016  (12.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4188/65536      234528/3670016  ( 6.4%) 
+leaves                3658/65536      117056/2097152  ( 5.6%) 
+leaffaces             8110/65536       16220/131072   (12.4%) 
+leafbrushes           2445/65536        4890/131072   ( 3.7%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            53015/512000     212060/2048000  (10.4%) 
+edges                32835/256000     131340/1024000  (12.8%) 
+LDR worldlights        442/8192        38896/720896   ( 5.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            327/32768        3270/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6234/65536       12468/131072   ( 9.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1329084/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1198216/16777216 ( 7.1%) 
+entdata               [variable]       77200/393216   (19.6%) 
+LDR ambient table     3658/65536       14632/262144   ( 5.6%) 
+HDR ambient table     3658/65536       14632/262144   ( 5.6%) 
+LDR leaf ambient     13702/65536      383656/1835008  (20.9%) 
+HDR leaf ambient      3658/65536      102424/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211908/0        ( 0.0%) 
+physics               [variable]      444793/4194304  (10.6%) 
+physics terrain       [variable]      114042/1048576  (10.9%) 
+
+Level flags = 0
+
+Total triangle count: 20528
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+46 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 5 (brush 11292) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (452865 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 764 texinfos to 540
+Reduced 11 texdatas to 9 (293 bytes to 228)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+2228 portalclusters
+6369 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 157656 visible clusters (3.81%)
+Total clusters visible: 4133168
+Average clusters visible: 1855
+Building PAS...
+Average clusters audible: 2224
+visdatasize:1229324  compressed from 1247680
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+7970 faces
+580515 square feet [83594264.00 square inches]
+440 Displacements
+520 Square Feet [74985.18 Square Inches]
+7970 patches before subdivision
+67448 patches after subdivision
+483 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22294415, max 1790
+transfer lists: 170.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(411274, 211613, 210050)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64097, 17604, 17505)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10573, 1507, 1499)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1744, 130, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(294, 11, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(50, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0125 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+230 of 230 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1289/8192        15468/98304    (15.7%) 
+brushsides            8540/65536       68320/524288   (13.0%) 
+planes                3076/65536       61520/1310720  ( 4.7%) 
+vertexes             10398/65536      124776/786432   (15.9%) 
+nodes                 3724/65536      119168/2097152  ( 5.7%) 
+texinfos               540/12288       38880/884736   ( 4.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos              440/0           77440/0        ( 0.0%) 
+disp_verts           11000/0          220000/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       19712/0           19712/0        ( 0.0%) 
+faces                 7970/65536      446320/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4261/65536      238616/3670016  ( 6.5%) 
+leaves                3726/65536      119232/2097152  ( 5.7%) 
+leaffaces             8239/65536       16478/131072   (12.6%) 
+leafbrushes           2535/65536        5070/131072   ( 3.9%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            53868/512000     215472/2048000  (10.5%) 
+edges                33302/256000     133208/1024000  (13.0%) 
+LDR worldlights        483/8192        42504/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            341/32768        3410/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6711/65536       13422/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1335384/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1229324/16777216 ( 7.3%) 
+entdata               [variable]       90055/393216   (22.9%) 
+LDR ambient table     3726/65536       14904/262144   ( 5.7%) 
+HDR ambient table     3726/65536       14904/262144   ( 5.7%) 
+LDR leaf ambient     13580/65536      380240/1835008  (20.7%) 
+HDR leaf ambient      3726/65536      104328/1835008  ( 5.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211908/0        ( 0.0%) 
+physics               [variable]      452865/4194304  (10.8%) 
+physics terrain       [variable]      113986/1048576  (10.9%) 
+
+Level flags = 0
+
+Total triangle count: 20895
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+43 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 5 (brush 11292) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (452865 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 764 texinfos to 540
+Reduced 11 texdatas to 9 (293 bytes to 228)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+2228 portalclusters
+6369 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 157656 visible clusters (3.81%)
+Total clusters visible: 4133168
+Average clusters visible: 1855
+Building PAS...
+Average clusters audible: 2224
+visdatasize:1229324  compressed from 1247680
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+7970 faces
+580515 square feet [83594264.00 square inches]
+440 Displacements
+520 Square Feet [74985.18 Square Inches]
+7970 patches before subdivision
+67448 patches after subdivision
+491 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22294415, max 1790
+transfer lists: 170.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(415933, 213894, 212330)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64817, 17798, 17699)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10685, 1523, 1515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1761, 131, 131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(297, 11, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(50, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0128 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+230 of 230 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1289/8192        15468/98304    (15.7%) 
+brushsides            8540/65536       68320/524288   (13.0%) 
+planes                3076/65536       61520/1310720  ( 4.7%) 
+vertexes             10398/65536      124776/786432   (15.9%) 
+nodes                 3724/65536      119168/2097152  ( 5.7%) 
+texinfos               540/12288       38880/884736   ( 4.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos              440/0           77440/0        ( 0.0%) 
+disp_verts           11000/0          220000/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       19712/0           19712/0        ( 0.0%) 
+faces                 7970/65536      446320/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4261/65536      238616/3670016  ( 6.5%) 
+leaves                3726/65536      119232/2097152  ( 5.7%) 
+leaffaces             8239/65536       16478/131072   (12.6%) 
+leafbrushes           2535/65536        5070/131072   ( 3.9%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            53868/512000     215472/2048000  (10.5%) 
+edges                33302/256000     133208/1024000  (13.0%) 
+LDR worldlights        491/8192        43208/720896   ( 6.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            341/32768        3410/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6711/65536       13422/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1335384/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1229324/16777216 ( 7.3%) 
+entdata               [variable]       92663/393216   (23.6%) 
+LDR ambient table     3726/65536       14904/262144   ( 5.7%) 
+HDR ambient table     3726/65536       14904/262144   ( 5.7%) 
+LDR leaf ambient     13589/65536      380492/1835008  (20.7%) 
+HDR leaf ambient      3726/65536      104328/1835008  ( 5.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211908/0        ( 0.0%) 
+physics               [variable]      452865/4194304  (10.8%) 
+physics terrain       [variable]      113986/1048576  (10.9%) 
+
+Level flags = 0
+
+Total triangle count: 20895
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+46 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/building_a/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...WARNING: areaportal entity 5 (brush 11292) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+WARNING: areaportal entity 4 (brush 11298) touches > 2 areas
+done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (452865 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 764 texinfos to 540
+Reduced 11 texdatas to 9 (293 bytes to 228)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+2228 portalclusters
+6369 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 157656 visible clusters (3.81%)
+Total clusters visible: 4133168
+Average clusters visible: 1855
+Building PAS...
+Average clusters audible: 2224
+visdatasize:1229324  compressed from 1247680
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+7970 faces
+580515 square feet [83594264.00 square inches]
+440 Displacements
+520 Square Feet [74985.18 Square Inches]
+7970 patches before subdivision
+67448 patches after subdivision
+491 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 22294415, max 1790
+transfer lists: 170.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(412759, 212342, 210779)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64326, 17666, 17567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10609, 1513, 1505)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1750, 130, 130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(295, 11, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(50, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0130 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+230 of 230 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               1289/8192        15468/98304    (15.7%) 
+brushsides            8540/65536       68320/524288   (13.0%) 
+planes                3076/65536       61520/1310720  ( 4.7%) 
+vertexes             10398/65536      124776/786432   (15.9%) 
+nodes                 3724/65536      119168/2097152  ( 5.7%) 
+texinfos               540/12288       38880/884736   ( 4.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos              440/0           77440/0        ( 0.0%) 
+disp_verts           11000/0          220000/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       19712/0           19712/0        ( 0.0%) 
+faces                 7970/65536      446320/3670016  (12.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4261/65536      238616/3670016  ( 6.5%) 
+leaves                3726/65536      119232/2097152  ( 5.7%) 
+leaffaces             8239/65536       16478/131072   (12.6%) 
+leafbrushes           2535/65536        5070/131072   ( 3.9%) 
+areas                    5/256            40/2048     ( 2.0%) 
+surfedges            53868/512000     215472/2048000  (10.5%) 
+edges                33302/256000     133208/1024000  (13.0%) 
+LDR worldlights        491/8192        43208/720896   ( 6.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            341/32768        3410/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6711/65536       13422/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1335384/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1229324/16777216 ( 7.3%) 
+entdata               [variable]       92663/393216   (23.6%) 
+LDR ambient table     3726/65536       14904/262144   ( 5.7%) 
+HDR ambient table     3726/65536       14904/262144   ( 5.7%) 
+LDR leaf ambient     13577/65536      380156/1835008  (20.7%) 
+HDR leaf ambient      3726/65536      104328/1835008  ( 5.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      211908/0        ( 0.0%) 
+physics               [variable]      452865/4194304  (10.8%) 
+physics terrain       [variable]      113986/1048576  (10.9%) 
+
+Level flags = 0
+
+Total triangle count: 20895
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+47 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote E:\mapping\Team Fortress 2\cp_change\building_a.lin
+Areaportal leak ! File: E:\mapping\Team Fortress 2\cp_change\building_a.lin 
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115328: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115324: areaportal brush doesn't touch two areas
+
+Brush 115322: areaportal brush doesn't touch two areas
+
+Brush 115358: areaportal brush doesn't touch two areas
+
+Brush 115360: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115382: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115382: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115382: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115378: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115372: areaportal brush doesn't touch two areas
+
+Brush 115368: areaportal brush doesn't touch two areas
+
+Brush 115366: areaportal brush doesn't touch two areas
+
+Brush 115370: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115320: areaportal brush doesn't touch two areas
+
+Brush 115320: areaportal brush doesn't touch two areas
+
+Brush 115402: areaportal brush doesn't touch two areas
+
+Brush 115360: areaportal brush doesn't touch two areas
+
+Brush 115362: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115368: areaportal brush doesn't touch two areas
+
+Brush 115368: areaportal brush doesn't touch two areas
+
+Brush 115370: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 32 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (214636 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 370 texinfos to 255
+Reduced 10 texdatas to 8 (247 bytes to 185)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+ 911 portalclusters
+2640 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 32241 visible clusters (4.74%)
+Total clusters visible: 679706
+Average clusters visible: 746
+Building PAS...
+Average clusters audible: 910
+visdatasize:213172  compressed from 218640
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+3503 faces
+943484 square feet [135861744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3503 patches before subdivision
+48175 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4642469, max 548
+transfer lists:  35.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(186205, 87614, 87614)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29023, 6409, 6409)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4765, 480, 480)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(792, 36, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(135, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+10 of 10 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                618/8192         7416/98304    ( 7.5%) 
+brushsides            3979/65536       31832/524288   ( 6.1%) 
+planes                1120/65536       22400/1310720  ( 1.7%) 
+vertexes              4930/65536       59160/786432   ( 7.5%) 
+nodes                 1642/65536       52544/2097152  ( 2.5%) 
+texinfos               255/12288       18360/884736   ( 2.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3503/65536      196168/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1929/65536      108024/3670016  ( 2.9%) 
+leaves                1644/65536       52608/2097152  ( 2.5%) 
+leaffaces             3953/65536        7906/131072   ( 6.0%) 
+leafbrushes           1035/65536        2070/131072   ( 1.6%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            24912/512000      99648/2048000  ( 4.9%) 
+edges                15485/256000      61940/1024000  ( 6.0%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            372/32768        3720/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6498/65536       12996/131072   ( 9.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      998888/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      213172/16777216 ( 1.3%) 
+entdata               [variable]       78964/393216   (20.1%) 
+LDR ambient table     1644/65536        6576/262144   ( 2.5%) 
+HDR ambient table     1644/65536        6576/262144   ( 2.5%) 
+LDR leaf ambient      6734/65536      188552/1835008  (10.3%) 
+HDR leaf ambient      1644/65536       46032/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8800     ( 0.0%) 
+pakfile               [variable]      211571/0        ( 0.0%) 
+physics               [variable]      214636/4194304  ( 5.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10178
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\building_a.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+Wrote E:\mapping\Team Fortress 2\cp_change\building_a.lin
+Areaportal leak ! File: E:\mapping\Team Fortress 2\cp_change\building_a.lin 
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115338: areaportal brush doesn't touch two areas
+
+Brush 115336: areaportal brush doesn't touch two areas
+
+Brush 115328: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115334: areaportal brush doesn't touch two areas
+
+Brush 115332: areaportal brush doesn't touch two areas
+
+Brush 115330: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115326: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115340: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115350: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115348: areaportal brush doesn't touch two areas
+
+Brush 115324: areaportal brush doesn't touch two areas
+
+Brush 115322: areaportal brush doesn't touch two areas
+
+Brush 115358: areaportal brush doesn't touch two areas
+
+Brush 115360: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115342: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115352: areaportal brush doesn't touch two areas
+
+Brush 115354: areaportal brush doesn't touch two areas
+
+Brush 115356: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115346: areaportal brush doesn't touch two areas
+
+Brush 115344: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115398: areaportal brush doesn't touch two areas
+
+Brush 115400: areaportal brush doesn't touch two areas
+
+Brush 115396: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115384: areaportal brush doesn't touch two areas
+
+Brush 115394: areaportal brush doesn't touch two areas
+
+Brush 115382: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115382: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115388: areaportal brush doesn't touch two areas
+
+Brush 115382: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115380: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115392: areaportal brush doesn't touch two areas
+
+Brush 115378: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115376: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115374: areaportal brush doesn't touch two areas
+
+Brush 115372: areaportal brush doesn't touch two areas
+
+Brush 115368: areaportal brush doesn't touch two areas
+
+Brush 115366: areaportal brush doesn't touch two areas
+
+Brush 115370: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115390: areaportal brush doesn't touch two areas
+
+Brush 115386: areaportal brush doesn't touch two areas
+
+Brush 115320: areaportal brush doesn't touch two areas
+
+Brush 115320: areaportal brush doesn't touch two areas
+
+Brush 115402: areaportal brush doesn't touch two areas
+
+Brush 115360: areaportal brush doesn't touch two areas
+
+Brush 115362: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115364: areaportal brush doesn't touch two areas
+
+Brush 115368: areaportal brush doesn't touch two areas
+
+Brush 115368: areaportal brush doesn't touch two areas
+
+Brush 115370: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 32 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\mapping\Team Fortress 2\cp_change\building_a.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (214636 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 261
+Reduced 10 texdatas to 8 (247 bytes to 185)
+Writing E:\mapping\Team Fortress 2\cp_change\building_a.bsp
+1 second elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\building_a.bsp
+reading e:\mapping\team fortress 2\cp_change\building_a.prt
+ 914 portalclusters
+2659 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 33225 visible clusters (4.87%)
+Total clusters visible: 681853
+Average clusters visible: 746
+Building PAS...
+Average clusters audible: 913
+visdatasize:215581  compressed from 219360
+writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\building_a.bsp
+3500 faces
+943484 square feet [135861744.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3500 patches before subdivision
+48146 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4637016, max 547
+transfer lists:  35.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(186121, 87568, 87568)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(29009, 6406, 6406)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4763, 480, 480)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(791, 36, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(135, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0096 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+10 of 10 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                618/8192         7416/98304    ( 7.5%) 
+brushsides            3979/65536       31832/524288   ( 6.1%) 
+planes                1120/65536       22400/1310720  ( 1.7%) 
+vertexes              4929/65536       59148/786432   ( 7.5%) 
+nodes                 1644/65536       52608/2097152  ( 2.5%) 
+texinfos               261/12288       18792/884736   ( 2.1%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3500/65536      196000/3670016  ( 5.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1931/65536      108136/3670016  ( 2.9%) 
+leaves                1646/65536       52672/2097152  ( 2.5%) 
+leaffaces             3952/65536        7904/131072   ( 6.0%) 
+leafbrushes           1033/65536        2066/131072   ( 1.6%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            24912/512000      99648/2048000  ( 4.9%) 
+edges                15519/256000      62076/1024000  ( 6.1%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            375/32768        3750/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6549/65536       13098/131072   (10.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      998632/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      215581/16777216 ( 1.3%) 
+entdata               [variable]       78964/393216   (20.1%) 
+LDR ambient table     1646/65536        6584/262144   ( 2.5%) 
+HDR ambient table     1646/65536        6584/262144   ( 2.5%) 
+LDR leaf ambient      6727/65536      188356/1835008  (10.3%) 
+HDR leaf ambient      1646/65536       46088/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/8798     ( 0.0%) 
+pakfile               [variable]      211571/0        ( 0.0%) 
+physics               [variable]      214636/4194304  ( 5.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10176
+Writing e:\mapping\team fortress 2\cp_change\building_a.bsp
+13 seconds elapsed
