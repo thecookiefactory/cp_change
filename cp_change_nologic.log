@@ -1,0 +1,189 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\materials
+Loading E:\mapping\Team Fortress 2\cp_change\cp_change_nologic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/cp_change_nologic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (3232.00 -528.00 -696.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 -4096.0 0.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6144.0 -3584.0 0.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5728.0 -3072.0 0.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5216.0 -3072.0 0.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 -4096.0 0.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 -3072.0 0.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -4096.0 0.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -3072.0 0.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 82 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1248972 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1924 texinfos to 1336
+Reduced 14 texdatas to 11 (380 bytes to 290)
+Writing E:\mapping\Team Fortress 2\cp_change\cp_change_nologic.bsp
+3 seconds elapsed
+
+
+
+4 threads
+reading e:\mapping\team fortress 2\cp_change\cp_change_nologic.bsp
+reading e:\mapping\team fortress 2\cp_change\cp_change_nologic.prt
+LoadPortals: couldn't read e:\mapping\team fortress 2\cp_change\cp_change_nologic.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[34 texlights parsed from 'lights.rad']
+
+Loading e:\mapping\team fortress 2\cp_change\cp_change_nologic.bsp
+No vis information, direct lighting only.
+20172 faces
+4531844 square feet [652585600.00 square inches]
+85 Displacements
+208 Square Feet [30061.44 Square Inches]
+1849 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1063 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+117 of 117 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes               3403/8192        40836/98304    (41.5%) 
+brushsides           24035/65536      192280/524288   (36.7%) 
+planes                8102/65536      162040/1310720  (12.4%) 
+vertexes             28057/65536      336684/786432   (42.8%) 
+nodes                 9001/65536      288032/2097152  (13.7%) 
+texinfos              1336/12288       96192/884736   (10.9%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos               85/0           14960/0        ( 0.0%) 
+disp_verts            2125/0           42500/0        ( 0.0%) 
+disp_tris             2720/0            5440/0        ( 0.0%) 
+disp_lmsamples        5376/0            5376/0        ( 0.0%) 
+faces                20172/65536     1129632/3670016  (30.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10720/65536      600320/3670016  (16.4%) 
+leaves                9003/65536      288096/2097152  (13.7%) 
+leaffaces            23289/65536       46578/131072   (35.5%) 
+leafbrushes           6382/65536       12764/131072   ( 9.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges           140417/512000     561668/2048000  (27.4%) 
+edges                80835/256000     323340/1024000  (31.6%) 
+LDR worldlights       1849/8192       162712/720896   (22.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1940/32768       19400/327680   ( 5.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         33684/65536       67368/131072   (51.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]    10708916/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      610575/393216   (155.3%) VERY FULL!
+LDR ambient table     9003/65536       36012/262144   (13.7%) 
+HDR ambient table     9003/65536       36012/262144   (13.7%) 
+LDR leaf ambient     41175/65536     1152900/1835008  (62.8%) 
+HDR leaf ambient      9003/65536      252084/1835008  (13.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/57534    ( 0.0%) 
+pakfile               [variable]      211999/0        ( 0.0%) 
+physics               [variable]     1248972/4194304  (29.8%) 
+physics terrain       [variable]       24863/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 56826
+Writing e:\mapping\team fortress 2\cp_change\cp_change_nologic.bsp
+5 minutes, 4 seconds elapsed
